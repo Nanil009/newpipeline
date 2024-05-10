@@ -1,0 +1,9 @@
+{
+	"name": "xn-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e006be44-30e1-46a5-964c-d4f23ff3ebce",
+		"tenantId": "e4ea33f6-843c-49b5-9adb-d73434ee5d60"
+	}
+}
